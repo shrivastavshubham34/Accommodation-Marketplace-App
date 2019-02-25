@@ -1,18 +1,26 @@
 # Homeaway demoApp
 
-  This app uses MVC framework; React acts as view,Nodejs as Controller and mLAB as model
+- Developed a Homeaway.com replica web application, which had features like adding, viewing and booking properties.
+- Front-end was developed in ReactJS and Redux, backend using NodeJS and ExpressJS and database was managed by
+MongoDB.
+- Functionalities implemented included session management using cookies, encrypted password storage, connection
+pooling in database and stream-processing by using messaging system provided by Apache Kafka.
+- Application was tested using JMeter.
 
 ## Getting Started
 
+
+```
 git clone this repo
 npm install
 npm start
 Then take a look at http://localhost:3000/ for frontend and 3001 for backend.
+```
 
-### Prerequisites
+## Prerequisites
 Get familiar with nodejs,reactjs and redux
 
----
+
 ## Deployment
 
 These folders have been deployed on Two Amazon ec2 instances 
