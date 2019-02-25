@@ -1,0 +1,36 @@
+{
+  "name": "homeaway2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "airbnb-prop-types": "^2.11.0",
+    "apollo-boost": "^0.1.22",
+    "apollo-link-context": "^1.0.10",
+    "axios": "^0.18.0",
+    "graphql": "^14.0.2",
+    "jwt-decode": "^2.2.0",
+    "mdbreact": "^4.8.4",
+    "react": "^16.6.3",
+    "react-apollo": "^2.3.2",
+    "react-bootstrap": "^0.32.4",
+    "react-cookies": "^0.1.0",
+    "react-country-region-selector": "^1.4.3",
+    "react-dates": "^18.2.2",
+    "react-dom": "^16.6.3",
+    "react-dropzone": "^6.2.4",
+    "react-notifications-component": "^1.0.0",
+    "react-places-autocomplete": "^7.2.0",
+    "react-radio-buttons": "^1.2.2",
+    "react-redux": "^5.1.1",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.7",
+    "redux-form": "^7.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
